@@ -1,5 +1,4 @@
 ![logo](https://github.com/aashish13kush/aashish13kush/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner%20(1).png)
-Hi there 👋
 <h1 align="center">Hi 👋, I'm Aashish Kushwaha</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
