@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Development , DSA(C++)**
 
-- 📫 How to reach me **kushwahaaashish2022@gmail.com and kushwaha9301@gmail.com**
+- 📫 How to reach me **kushwahaaashish2022@gmail.com or kushwaha9301@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
